@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b502f851c3090390e936de1d0501312c" extends="task" label="GitHub Integration" max_length="40" name="x_1303874_github_0_github_integration" type="collection"/>
+</database>
